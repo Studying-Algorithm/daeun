@@ -11,6 +11,7 @@ res3 = num1 * num2_100
 
 # 더해지는 자릿수를 맞추기 위해 10, 100 곱해서 더함
 num_sum = res1 + (res2 * 10) + (res3 * 100)
+
 print(res1)
 print(res2)
 print(res3)

@@ -9,5 +9,4 @@ for i in range(0, len(binary), 3):
         bList += '00'
     octal += str(int(bList[0]) + int(bList[1]) * 2 + int(bList[2]) * 4)
     
-print(octal[::-1]) 
-
+print(octal[::-1])
